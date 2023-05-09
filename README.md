@@ -4,3 +4,4 @@ A cpenAI GPT PC client
 ![Image](https://raw.githubusercontent.com/makercome/YuniqiGPT/main/ScreenShot/p1.png)
 ![Image](https://raw.githubusercontent.com/makercome/YuniqiGPT/main/ScreenShot/p2.png)
 ![Image](https://raw.githubusercontent.com/makercome/YuniqiGPT/main/ScreenShot/p3.png)
+![Image](https://raw.githubusercontent.com/makercome/YuniqiGPT/main/ScreenShot/do.gif)
